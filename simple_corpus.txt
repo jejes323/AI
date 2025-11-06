@@ -1,10 +1,6 @@
-Apples are red and crunchy.
-Bananas are sweet and soft.
-Grapes are small but flavorful.
-Oranges are easy to peel.
-Mangoes grow in tropical regions.
-Strawberries are a symbol of spring.
-Pineapples taste both sour and sweet.
-Watermelons are perfect for summer.
-Peaches are fragrant and tender.
-Kiwis are rich in vitamin C.
+Python is fun
+I like Python
+Python is easy
+I like programming
+Python programming is fun
+I like Python programming
